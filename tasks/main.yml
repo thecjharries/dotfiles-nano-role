@@ -10,7 +10,7 @@
 
 - name: "Check nanorc"
   include_role:
-    name: dotfiles-repo-installer-role
+    name: dotfiles-role-repo-installer
   vars:
     remote_url: https://github.com/scopatz/nanorc.git
     src_path: "{{ config_dir }}/nano/rcfiles"
@@ -20,7 +20,7 @@
 
 - name: "Template nano config"
   include_role:
-    name: dotfiles-generic-template-role
+    name: dotfiles-role-generic-template
   vars:
     template_root: "{{ root_dir }}"
     template_path: ".nanorc"
