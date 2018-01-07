@@ -1,7 +1,7 @@
 # `dotfiles-role-nano`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-nano.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-nano)
-[![GitHub release](https://img.shields.io/github/release/thecjharries/dotfiles-role-nano.svg)](https://github.com/thecjharries/dotfiles-role-nano)
+[![GitHub tag](https://img.shields.io/github/tag/thecjharries/dotfiles-role-nano.svg)](https://github.com/thecjharries/dotfiles-role-nano)
 
 ## Requirements
 
